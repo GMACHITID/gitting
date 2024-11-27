@@ -1,3 +1,4 @@
 Piramde avsebuli tasit shens ganachens veli
 Mdinares chamovyevi da gavayole mtveri
 for commit1 in feature
+for commit 2 in feature
